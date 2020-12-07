@@ -1,0 +1,1 @@
+web: gunicorn glassproj.wsgi --log-file -
