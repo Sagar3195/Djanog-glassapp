@@ -1,1 +1,1 @@
-# Djanog-glassapp
+# Django-glassapp
